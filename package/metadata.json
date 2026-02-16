@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Scott McCallum"
+            },
+            {
+                "Name": "Jamie Zawinski (original xscreensaver glmatrix)"
+            }
+        ],
+        "Id": "com.github.kmatrix",
+        "License": "MIT/X11",
+        "Name": "GL Matrix",
+        "Version": "1.0",
+        "Description": "3D Matrix digital rain effect, ported from xscreensaver's glmatrix",
+        "Icon": "preferences-desktop-wallpaper"
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

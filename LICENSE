@@ -1,0 +1,37 @@
+GL Matrix - KDE Plasma 6 Wallpaper Plugin
+==========================================
+
+Port of the glmatrix screensaver to a KDE Plasma 6 wallpaper plugin.
+
+
+Original Work
+-------------
+
+glmatrix, Copyright (c) 2003-2018 Jamie Zawinski <jwz@jwz.org>
+
+Permission to use, copy, modify, distribute, and sell this software and its
+documentation for any purpose is hereby granted without fee, provided that
+the above copyright notice appear in all copies and that both that
+copyright notice and this permission notice appear in supporting
+documentation.  No representations are made about the suitability of this
+software for any purpose.  It is provided "as is" without express or
+implied warranty.
+
+The glyph texture atlas (matrix3.png) is from xscreensaver and is
+Copyright (c) Jamie Zawinski, distributed under the same license above.
+
+https://www.jwz.org/xscreensaver/
+
+
+KDE Plasma Port
+---------------
+
+Copyright (c) 2026 Scott McCallum
+
+Permission to use, copy, modify, distribute, and sell this software and its
+documentation for any purpose is hereby granted without fee, provided that
+the above copyright notice appear in all copies and that both that
+copyright notice and this permission notice appear in supporting
+documentation.  No representations are made about the suitability of this
+software for any purpose.  It is provided "as is" without express or
+implied warranty.

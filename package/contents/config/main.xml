@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="speed" type="Double">
+      <label>Animation speed multiplier</label>
+      <default>1.0</default>
+    </entry>
+    <entry name="density" type="Double">
+      <label>Glyph density percentage</label>
+      <default>20</default>
+    </entry>
+    <entry name="mode" type="String">
+      <label>Encoding mode (matrix, binary, hexadecimal, decimal, dna)</label>
+      <default>matrix</default>
+    </entry>
+    <entry name="fog" type="Bool">
+      <label>Enable fog (depth-based dimming)</label>
+      <default>true</default>
+    </entry>
+    <entry name="waves" type="Bool">
+      <label>Enable brightness waves</label>
+      <default>true</default>
+    </entry>
+    <entry name="rotate" type="Bool">
+      <label>Enable camera panning</label>
+      <default>true</default>
+    </entry>
+    <entry name="fps" type="Int">
+      <label>Target frames per second</label>
+      <default>60</default>
+    </entry>
+  </group>
+</kcfg>
