@@ -11,6 +11,7 @@ a QML ShaderEffect - no C++ compilation required. The shader uses hash-based
 procedural randomness to generate the entire scene (strip speeds, glyph
 selection, wave phases, depth layers) without any CPU-side state.
 
+![screenshot](screenshot.png)
 
 ## Features
 
