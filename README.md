@@ -51,6 +51,8 @@ cd kmatrix
 ./build.sh
 ```
 
+There may be an error about removing a file, that's just the upgrade part of the script and is fine to ignore on a new install.
+
 This compiles the shader and installs the wallpaper plugin. To activate it:
 
 1. Right-click your desktop and select "Configure Desktop and Wallpaper"
